@@ -94,3 +94,21 @@ The workflow should be tested and configured for each business before production
 **Saad Yousuf**
 
 GitHub: https://github.com/Saad-Yousuf
+
+
+## Project Screenshots
+
+### 1. Google Form — Lead Capture
+![Google Form](screenshots/Google%20form.PNG)
+
+### 2. Google Sheets — Lead Tracking
+![Lead Tracking](screenshots/Google%20Sheet.PNG)
+
+### 3. Apps Script Execution Logs
+![Apps Script Executions](screenshots/App%20script%20executions.PNG)
+
+### 4. Customer Confirmation Email
+![Customer Confirmation Email](screenshots/confirmation%20email.PNG)
+
+### 5. Owner Notification Email
+![Owner Notification Email](screenshots/new%20lead%20email.PNG)
